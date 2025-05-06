@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-14.6.1-arm64-arm-64bit",
+  "python":  "3.10.0",
+  "startedAt":  "2024-10-11T19:50:01.706517Z",
+  "program":  "/Users/sungkyun/ML/mock-mt3/src/utils/preprocess/preprocess_guitarset.py",
+  "codePath":  "src/utils/preprocess/preprocess_guitarset.py",
+  "git":  {
+    "remote":  "git@github.com:mimbres/mock-mt3.git",
+    "commit":  "38355677686fc35015bc666390c63052622a1b0c"
+  },
+  "email":  "1ronyar@gmail.com",
+  "root":  "/Users/sungkyun/ML/mock-mt3/src/utils/preprocess",
+  "host":  "Changs-MacBook-Pro.local",
+  "username":  "sungkyun",
+  "executable":  "/Users/sungkyun/miniforge3/envs/torch241/bin/python",
+  "codePathLocal":  "preprocess_guitarset.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "845637566464"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  10
+  },
+  "gpuapple":  {
+    "gpuType":  "Apple M1 Pro",
+    "vendor":  "sppci_vendor_Apple",
+    "cores":  16
+  }
+}

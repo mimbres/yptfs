@@ -1,0 +1,20 @@
+numpy<2 # mirdata doesn't support numpy 2.0
+mido
+git+https://github.com/craffel/mir_eval.git
+# git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup.git
+deprecated
+lightning>=2.2.1
+einops
+transformers<4.46 # 4.46 has a bug for KVcache now...
+# wandb
+# smart-open
+# To be removed in the future
+mirdata # only for slakh
+librosa # only for mirdata
+# Dev-only
+# matplotlib
+# pytest-timeout
+# pytest
+torch
+torchaudio
+wandb
