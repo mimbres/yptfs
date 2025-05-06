@@ -1,11 +1,2 @@
 name: challenge_v0
-channels:
-  - defaults
-  - conda-forge
-dependencies:
-  - python=3.10
-  - pip
-  - pip:
-      - awscli
-      - -r amt/requirements.txt
-      - -e amt
+
