@@ -54,6 +54,6 @@ class cfg_local:
     # default_model_name = "YMT3+"
     default_model_name = "YPTF+Single (noPS)"
     # default_model_name = "YPTF+Multi (PS)"
-    # default_model_name = "YPTF.MoE+Multi (noPS)"
-    # default_model_name = "YPTF.MoE+Multi (PS)"
+    # default_model_name = "YPTF.MoE+Multi (noPS)" #submit 2,3
+    # default_model_name = "YPTF.MoE+Multi (PS)" # submit 4
     # default_model_name = "ptfs_gmlp_wf_e12_d8_500k"

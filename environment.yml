@@ -1,4 +1,4 @@
-name: challenge_v0_yptfs
+name: challenge_v0
 channels:
   - conda-forge
   - defaults
